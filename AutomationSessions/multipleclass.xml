@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testNGFramework">
+  <test  name="Signinflow">
+  <classes>
+  <class name="testNGFramework.Zerowebapp1"></class>
+  </classes>
+  </test> <!-- Test -->
+  
+   <test  name="YourLogo_Registration_Login_logoutflow">
+  <classes>
+  <class name="testNGFramework.YourLogoForTestNG"></class>
+  </classes>
+  </test> <!-- Test -->
+  
+   <test  name="FlipkartSearchflow">
+  <classes>
+  <class name="testNGFramework.Flipkartsearch"></class>
+  </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
+
+

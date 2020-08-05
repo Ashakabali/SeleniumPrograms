@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [testNGFramework]">
+  <test thread-count="5" name="addtocart(failed)">
+    <classes>
+      <class name="testNGFramework.Demoblaze_Addtocartflow">
+        <methods>
+          <include name="b_productmenu"/>
+        </methods>
+      </class> <!-- testNGFramework.Demoblaze_Addtocartflow -->
+    </classes>
+  </test> <!-- addtocart(failed) -->
+</suite> <!-- Failed suite [testNGFramework] -->
